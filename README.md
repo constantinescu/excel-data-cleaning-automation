@@ -2,4 +2,4 @@
 Cleans messy Excel data automatically - made with Replit
 
 ## 🌐 Live Demo
-https://your-username.github.io/excel-data-cleaning-site/
+https://constantinescu.github.io/excel-data-cleaning-automation/
