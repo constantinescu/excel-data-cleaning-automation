@@ -93,9 +93,6 @@ The tool applies a structured rule system covering:
 ├── index.html
 ├── flower.jpg
 ├── CLEANING_RULES.md
-├── sample_input.xlsx
-├── sample_output.xlsx
-```
 
 ---
 
