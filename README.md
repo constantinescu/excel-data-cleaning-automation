@@ -6,6 +6,12 @@ This project is a **browser-based Excel data cleaning tool** that automatically 
 
 The application was developed in Replit through multiple iterations, starting from an initial set of data cleaning rules that I defined and progressively refined into a comprehensive, rule-based data quality framework capable of handling real-world inconsistencies and edge cases.
 
+## 🎓 What I Learned
+
+* Designing rule-based data cleaning systems
+* Handling messy real-world datasets
+* Building user-friendly data tools with AI support
+* Structuring data transformation pipelines
 ---
 
 ## 🚀 Live Demo
@@ -13,6 +19,8 @@ The application was developed in Replit through multiple iterations, starting fr
 🌐 https://constantinescu.github.io/excel-data-cleaning-automation/
 
 ---
+
+<img width="1407" height="1059" alt="image" src="https://github.com/user-attachments/assets/667455e9-809b-4ec2-a22f-f6e5b3d020a4" />
 
 ## 🎯 Key Features
 
@@ -94,11 +102,6 @@ The tool applies a structured rule system covering:
 ├── flower.jpg
 ├── CLEANING_RULES.md
 
----
-
-## 📸 Screenshots
-
-*(Add screenshots here )*
 
 * Upload step
 * Data preview
@@ -113,21 +116,3 @@ The tool applies a structured rule system covering:
 * Preparing datasets for analysis
 * Standardizing CRM exports
 * Fixing inconsistent Excel files
-
----
-
-## 🎓 What I Learned
-
-* Designing rule-based data cleaning systems
-* Handling messy real-world datasets
-* Building user-friendly data tools with AI support
-* Structuring data transformation pipelines
-
----
-
-## 🔮 Future Improvements
-
-* Add custom rule editor
-* Support for larger datasets
-* Integration with cloud storage
-* More advanced anomaly detection
